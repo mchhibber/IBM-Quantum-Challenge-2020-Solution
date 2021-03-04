@@ -6,7 +6,7 @@ Starting Nov 9th at 9am JST, IBM Quantum Challenge 2020 consisted of three weeks
 Of the 2,000 participants, 1,091 were able to solve at least one of the first week’s exercises, 576 were able to solve at least one of the second week’s exercises, and 227 were able to successfully solve all of the exercises, including the final, most-challenging exercise in which my solution ranked at **72nd**.</br>
 <img src="IBMQCScore.png" alt="Badge" height="175"/>
 
-In recognition for completing the challenge, digital ![badges](https://www.youracclaim.com/badges/858906b5-4eb4-44ac-8309-e2315c9227f3/public_url) were awarded to participants.
+In recognition for completing the challenge, digital [badges](https://www.youracclaim.com/badges/858906b5-4eb4-44ac-8309-e2315c9227f3/public_url) were awarded to participants.
 
 <img src="ibm-quantum-challenge-fall-2020-advanced.png" alt="Badge" width="250"/>
 
