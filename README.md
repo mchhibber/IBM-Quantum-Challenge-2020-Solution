@@ -28,9 +28,9 @@ The challenge content has been shared with the public on the following dates.<br
 
 | Week  | Challenge |
 | ---     | ---    
-| Week 0 |[For Beginners: The atoms of computation](exercises/week-0/ex_0_en.ipynb) |
-| Week 1 |[Learning Challenge Exercise I-A](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/iqx/exercises/week-1/ex_1a_en.ipynb) <br/>[Learning Challenge Exercise I-B](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/iqx/exercises/week-1/ex_1b_en.ipynb)|  
-| Week 2  |[Learning Challenge Exercise II-A](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/main/exercises/week-2/ex_2a_en.ipynb) <br/>[Learning Challenge Exercise II-B](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/main/exercises/week-2/ex_2b_en.ipynb)| 
-| Week 3  |[Final Challenge](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/main/exercises/week-3/final_en.ipynb) | 
+| Week 0 |[For Beginners: The atoms of computation](./exercises/week-0/ex_0_en.ipynb) |
+| Week 1 |[Learning Challenge Exercise I-A](./exercises/week-1/ex_1a_en.ipynb) <br/>[Learning Challenge Exercise I-B](./exercises/week-1/ex_1b_en.ipynb)|  
+| Week 2  |[Learning Challenge Exercise II-A](./exercises/week-2/ex_2a_en.ipynb) <br/>[Learning Challenge Exercise II-B](./exercises/week-2/ex_2b_en.ipynb)| 
+| Week 3  |[Final Challenge](./exercises/week-3/final_en.ipynb) | 
  <br/>
 
